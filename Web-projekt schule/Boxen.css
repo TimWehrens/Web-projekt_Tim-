@@ -1,0 +1,103 @@
+#gesamt {
+    width: 830px;
+    height: 1740px;
+      background-color:rgb(153, 151, 151);
+      border: solid 4px #3C474B;
+    margin: auto;
+    position: relative;
+  
+  }
+
+  #Planet1 {
+
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+
+      }
+
+
+      #Text {
+        width: 380px;
+        height: 100px;
+        position: absolute;
+        right: 50px;
+        top: 100px;
+      }
+
+      #Planet2 {
+
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        right: 50px;
+        top: 500px;
+    
+          }
+    
+    
+          #Text2 {
+            width: 380px;
+            height: 100px;
+            position: absolute;
+            left: 50px;
+            top: 500px;
+          }
+
+          #Planet3 {
+
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            left: 50px;
+            top: 900px;
+        
+              }
+        
+        
+              #Text3 {
+                width: 380px;
+                height: 100px;
+                position: absolute;
+                right: 50px;
+                top: 900px;
+              }
+
+              #Planet4 {
+
+                align-items: center;
+                justify-content: center;
+                position: absolute;
+                right: 50px;
+                top:  1340px;
+            
+                  }
+            
+            
+                  #Text4 {
+                    width: 380px;
+                    height: 100px;
+                    position: absolute;
+                    left: 50px;
+                    top: 1340px;
+                  }
+
+                  #Title {
+                    align-items: center;
+                    justify-content: center;
+                    position: absolute;
+                    left: 300px;
+                    top: 10px;
+                  }
+
+                  #BoxMars {
+                    width: 830px;
+                    height: 1000px;
+                    margin: auto;
+                    position: relative;
+                  }
+
+
+                  
